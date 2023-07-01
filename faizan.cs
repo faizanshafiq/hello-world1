@@ -4,6 +4,6 @@ class Program
     {
         System.Console.WriteLine("This is added by faizan");
         System.Console.WriteLine("This is added by faizansavanti");
-        System.Console.Writeline("Faizansavanti made another change")
+		System.Console.WriteLine("This is added by faizan");
     }
 }
